@@ -10,6 +10,10 @@ Welcome to the Gemini Shell Application! This terminal-based application allows 
 - **User-Friendly Interface**: Simple and intuitive command-line interface.
 - **Readme Handler**: Utilize the Readme handler for a smoother user experience.
 
+## Demo
+
+https://github.com/rahulreddy-001/gemini-shell/assets/88628993/75a98d3d-1f36-4420-a7fc-6cbeebbcd810
+
 ## Getting Started
 
 ### Prerequisites
@@ -67,4 +71,4 @@ The Readme handler is designed to assist you with navigating and understanding t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://chat.openai.com/c/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/rahulreddy-001/gemini-shell/blob/main/LICENSE) file for details.
