@@ -71,4 +71,4 @@ The Readme handler is designed to assist you with navigating and understanding t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/rahulreddy-001/gemini-shell/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/rahulreddy-001/gemini-shell/blob/main/LICENSE) file for details.
